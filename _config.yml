@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: One blog to rule them all
+description: Qantas Assure Tech Blog
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://qantasassure.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -16,13 +16,11 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Contact
-   url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: qantasassure
+   twitter: qantas
+   facebook: qantas
+   email: yusinto.ngadiman@qantasloyalty.com
 
 google_analytics: "UA-58263416-1"

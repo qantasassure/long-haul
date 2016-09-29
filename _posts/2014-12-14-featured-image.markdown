@@ -1,4 +1,5 @@
 ---
+published: false
 layout: post
 title:  "Featured Image"
 date:   2014-12-14
